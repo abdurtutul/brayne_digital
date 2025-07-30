@@ -87,7 +87,7 @@ You can interact with the latest design prototype below:
 
 ## 🖼️ Screenshots – Mobile App (Scrollable)
 
-<div style="display: flex; overflow-x: auto; gap: 10px;">
+<div style="display: flex; overflow-x: scroll: auto; gap: 10px;">
   <img src="screenshots/Screenshot_1.png" width="200"/>
   <img src="screenshots/Screenshot_2.png" width="200"/>
   <img src="screenshots/Screenshot_3.png" width="200"/>
@@ -97,8 +97,6 @@ You can interact with the latest design prototype below:
   <img src="screenshots/Screenshot_7.png" width="200"/>
   <img src="screenshots/Screenshot_8.png" width="200"/>
 </div>
-
-> 📌 Place screenshots in a `screenshots/` folder inside your repo.
 
 ---
 
@@ -113,7 +111,7 @@ You can interact with the latest design prototype below:
 
 ## 🙋‍♀️ About Me
 
-**MST Khushi Akter**  
+**MD ABDUR RAHAMAN TUTUL**  
 *SQA Engineer @ Softvence Agency*  
 🔍 Focused on manual testing, bug reporting, UI/UX evaluation, and ensuring high-quality delivery.
 
