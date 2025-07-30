@@ -79,7 +79,7 @@ To enhance customer engagement, drive business growth, and create a win-win ecos
 
 You can interact with the latest design prototype below:
 
-[![Figma Preview – brayne_digital](assets/figma_preview_thumbnail.png)](https://www.figma.com/proto/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=1372-1332&p=f&t=Or22jUhZvvRPvYeR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+[![Figma Preview – brayne_digital](screenshots/png-transparent-figma-app-logo-tech-companies-thumbnail.png)](https://www.figma.com/proto/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=1372-1332&p=f&t=Or22jUhZvvRPvYeR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 🔗 [Click here to open the Figma prototype in full screen](https://www.figma.com/design/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=232-5835&t=6m8xIi3XP60PzMiY-0)
 
@@ -87,7 +87,7 @@ You can interact with the latest design prototype below:
 
 ## 🖼️ Screenshots – Mobile App (Scrollable)
 
-<div style="display: flex; overflow-x: auto; gap: 10px;">
+<div style="display: flex; gap: 10px;">
   <img src="screenshots/Screenshot_1.png" width="200"/>
   <img src="screenshots/Screenshot_2.png" width="200"/>
   <img src="screenshots/Screenshot_3.png" width="200"/>
