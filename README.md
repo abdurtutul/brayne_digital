@@ -1,6 +1,6 @@
 # 🧪 brayne_digital – SQA Manual Testing Report
 
-This repository documents the manual testing efforts for the **brayne_digital** project. As an **SQA Engineer** at **Softvence Agency**, I conducted thorough functional and UI/UX testing based on the Figma design, APK builds, and product requirements. All test cases and bugs are documented in a Google Sheet.
+This repository documents the manual testing efforts for the **brayne_digital** project. As an **SQA Engineer** at **Softvence Agency**, I conducted functional, UI/UX, and integration testing across mobile and web platforms based on Figma designs, APK builds, and client requirements.
 
 ---
 
@@ -52,6 +52,39 @@ To enhance customer engagement, drive business growth, and create a win-win ecos
 
 ---
 
+## 📱 APK File
+
+📦 [Download APK Build](apk/brayne_digital_v1.apk)
+
+---
+
+## 📋 Bug Log & Google Sheet
+
+🧾 [Bug & Test Case Log (Google Sheet)](https://docs.google.com/spreadsheets/d/1gT91kk-IStKj3tsPPcp1vSAUJd9k8RVdmOv-diOwgtQ/edit?usp=sharing)
+
+---
+
+## 🐞 Sample Bug Log Format
+
+| Bug ID | Module | Feature | Bug Type (Flutter/UI/Backend) | Bug Title | Bug Description | Steps to Reproduce | Actual Result | Expected Result | Issue Labels | Severity | Attachment | Dev Status | Testers | Remark | Re-testing | Date |
+|--------|--------|---------|-------------------------------|-----------|------------------|---------------------|----------------|------------------|---------------|----------|-------------|-------------|---------|--------|-------------|------|
+| #001   | Login  | OTP     | Flutter                       | OTP Crash | App crashes on wrong OTP input | 1. Go to login screen<br>2. Enter invalid OTP<br>3. Tap Continue | App crashes | Error message should appear | Crash, Bug | High | Screenshot.png | Fixed | Tutul | Confirmed | ✅ | 2025-07-25 |
+| #002   | Profile | Edit Info | UI                          | Misaligned Text | Text overlaps with button | Navigate to Profile > Edit | Text and button overlap | Proper alignment | UI | Medium | - | In Progress | Tutul | UI issue | ❌ | 2025-07-26 |
+
+> 🔍 *You can find the full list in the [Bug Report Sheet](https://docs.google.com/spreadsheets/d/14C6RpQTsvguC7ouuWNqBF4ZKVkqx8qP1-EV4dquON2c/edit?gid=359680536).*
+
+---
+
+## 📐 UI Interface Preview
+
+You can interact with the latest design prototype below:
+
+[![Figma Preview – brayne_digital](assets/figma_preview_thumbnail.png)](https://www.figma.com/proto/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=1372-1332&p=f&t=Or22jUhZvvRPvYeR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
+🔗 [Click here to open the Figma prototype in full screen](https://www.figma.com/proto/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=1372-1332&p=f&t=Or22jUhZvvRPvYeR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
+---
+
 ## 🖼️ Screenshots – Mobile App (Scrollable)
 
 <div style="display: flex; overflow-x: auto; gap: 10px;">
@@ -61,41 +94,16 @@ To enhance customer engagement, drive business growth, and create a win-win ecos
   <img src="screenshots/screen4.png" width="200"/>
 </div>
 
-> ℹ️ Upload your screenshots in a `screenshots/` folder for these to display properly.
-
----
-
-## 📱 APK File
-
-📦 [Download APK Build](app-release.apk)
-
-> Make sure your APK file is inside an `apk/` folder in the repo.
-
----
-
-## 📋 Bug Log & Test Sheet
-
-🧾 [View Google Sheet – Bug & Test Case Log](https://docs.google.com/spreadsheets/d/1gT91kk-IStKj3tsPPcp1vSAUJd9k8RVdmOv-diOwgtQ/edit?usp=sharing)
-
----
-
-## 📐 UI Interface Preview
-
-You can interact with the latest design prototype below:
-
-[![Figma Preview – brayne_digital](https://i.imgur.com/GMhWyyl.png)](https://www.figma.com/proto/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=1372-1332&p=f&t=Or22jUhZvvRPvYeR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-
-🔗 [Click here to open the Figma prototype in full screen](https://www.figma.com/proto/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=1372-1332&p=f&t=Or22jUhZvvRPvYeR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-
-> 📌 The design includes flows for Customers, Merchants, Advertisers, and Admin with all UI components tested.
+> 📌 Place screenshots in a `screenshots/` folder inside your repo.
 
 ---
 
 ## 🛠️ Tools Used
-- ✅ **Figma** – UI Design Reference
+
+- ✅ **Figma** – UI/UX Reference
 - ✅ **Android APK** – Functional Testing
-- ✅ **Google Sheets** – Test & Bug Logs
-- ✅ **GitHub** – QA Documentation & Evidence
+- ✅ **Google Sheets** – Bug Tracking & Test Logging
+- ✅ **GitHub** – QA Documentation Repository
 
 ---
 
@@ -103,7 +111,6 @@ You can interact with the latest design prototype below:
 
 **MST Khushi Akter**  
 *SQA Engineer @ Softvence Agency*  
-🛠️ Focused on manual testing, bug documentation, UI/UX evaluation, and ensuring quality delivery.
+🔍 Focused on manual testing, bug reporting, UI/UX evaluation, and ensuring high-quality delivery.
 
 ---
-
