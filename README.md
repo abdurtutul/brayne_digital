@@ -77,9 +77,9 @@ To enhance customer engagement, drive business growth, and create a win-win ecos
 
 ## 📐 UI Interface Preview
 
-You can interact with the latest design prototype below:
-## 🎨 Figma Design Preview
+You can interact with the latest design prototype below:  
 [<img src="screenshots/figma.png" alt="Figma Preview – brayne_digital" width="50"/>](https://www.figma.com/proto/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=1372-1332&p=f&t=Or22jUhZvvRPvYeR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
 🔗 [Click here to open the Figma prototype in full screen](https://www.figma.com/design/Nmujo7GcxmtjaZG3W8Ezu5/brayne_digital-%7C%7C-Web_genius-%7C%7C--FO313D439DBC3?node-id=232-5835&t=6m8xIi3XP60PzMiY-0)
 
 ---
